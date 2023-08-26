@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 "UnlitGeneric"
 {
 	"$baseTexture" "hud\leaderboard_class_soldier_bison"
@@ -6,4 +7,14 @@
 	"$ignorez" 1
 	"%keywords" "tf"
 	"$translucent" 1
+=======
+"UnlitGeneric"
+{
+	"$baseTexture" "hud/leaderboard_class_soldier_bison"
+	"$vertexcolor" 1
+	"$no_fullbright" 1
+	"$ignorez" 1
+	"%keywords" "tf"
+	"$translucent" 1
+>>>>>>> 4524fa315e1552ff5029bab4f8bc86bdb0b04765
 }
